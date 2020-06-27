@@ -1,0 +1,2 @@
+mosquitto_pub -h test.mosquitto.org -t '/tiot/13/catalog' -m '{id: Ale, end-points: http, resources: [Temperature, Blue]}'
+mosquitto_sub -h test.mosquitto.org -t '/tiot/13/catalog'

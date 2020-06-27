@@ -1,0 +1,1 @@
+{"broker": {"name": "test.mosquitto.org", "port": "1883"}, "devices": [{"id": "A8:40:41:1A:60:B0", "endpoints": {"temp": "/tiot/13/temp"}, "resources": "temp", "t": 1591710776.474954}], "services": [], "users": []}

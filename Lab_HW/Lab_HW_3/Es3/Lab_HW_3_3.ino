@@ -42,7 +42,6 @@ void loop() {
 
 
 void setLedValue(const String& topic, const String& subtopic, const String& message) {
-  Serial.println("eccoci");
   DeserializationError err = deserializeJson(doc_rec, message);
   if(err) {
     Serial.print("deserializeJson() failed with code ");

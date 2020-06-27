@@ -1,0 +1,1 @@
+{"broker": {"name": "broker.hivemq.com", "port": "1883"}, "devices": [{"id": "ID1", "ep": {"tmp": "/iot/13/tmp", "nos": "/iot/13/nos", "mov": "/iot/13/mov", "lcd": "/iot/13/a/d", "led": "/iot/13/a/l", "fan": "/iot/13/a/f"}, "resources": ["tmp", "nos", "mov", "lcd", "led", "fan"], "t": 1592338864.644738}], "services": [], "users": []}
